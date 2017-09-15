@@ -320,6 +320,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 60615083588021980, guid: 81b033f14ffc8bd47a9afcaeca2eea56,
+        type: 2}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 81b033f14ffc8bd47a9afcaeca2eea56, type: 2}
   m_IsPrefabParent: 0
@@ -366,6 +371,11 @@ Prefab:
       propertyPath: m_Name
       value: rain (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 60615083588021980, guid: 81b033f14ffc8bd47a9afcaeca2eea56,
+        type: 2}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 81b033f14ffc8bd47a9afcaeca2eea56, type: 2}
   m_IsPrefabParent: 0
@@ -411,6 +421,11 @@ Prefab:
     - target: {fileID: 1587523959269370, guid: 81b033f14ffc8bd47a9afcaeca2eea56, type: 2}
       propertyPath: m_Name
       value: rain (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 60615083588021980, guid: 81b033f14ffc8bd47a9afcaeca2eea56,
+        type: 2}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 81b033f14ffc8bd47a9afcaeca2eea56, type: 2}
